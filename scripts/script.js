@@ -5,7 +5,7 @@ let topProds = [
         price: 299,
         bestSeller: true,
         img: "earphones/whiteearphones.jpg",
-        affLink: "https://amzn.to/4c9UtB7",
+        affLink: "https://amzn.to/4mbZqOi",
     },
     {
         title: "Green Oversized T-Shirt",
@@ -50,6 +50,15 @@ let topProds = [
         img: "shoes/greysneaker.jpg",
         affLink: "https://amzn.to/48yQf4S",
     },
+    {
+        title: "Black-White Tee Combo",
+        desc: "Layering Combo🔥 Minimal. Clean. Bold.",
+        price: 499,
+        bestSeller: false,
+        img: "tshirts/bwtee.jpg",
+        affLink: "https://amzn.to/4dsLsFA",
+    },
+
     
 ];
 
