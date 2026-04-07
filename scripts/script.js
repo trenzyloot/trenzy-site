@@ -1,11 +1,27 @@
 let topProds = [
     {
-        title: "Grey  Polo T-Shirt",
-        desc: "Summers coolest fit🔥",
-        price: 449,
+        title: "White Wired Headphones",
+        desc: "Style your outfits with music🎵",
+        price: 299,
+        bestSeller: true,
+        img: "earphones/whiteearphones.jpg",
+        affLink: "https://amzn.to/4c9UtB7",
+    },
+    {
+        title: "Green Oversized T-Shirt",
+        desc: "Perfect for Summers🔥",
+        price: 399,
         bestSeller: false,
-        img: "polos/greypolo.jpeg",
-        affLink: "https://amzn.to/4vkjJNW",
+        img: "oversizedtshirt/greenoversizedtshirt.jpg",
+        affLink: "https://amzn.to/4bVE04z",
+    },
+    {
+        title: "Khaki-White Check Shirt",
+        desc: "Instantly upgrades your look💸",
+        price: 379,
+        bestSeller: false,
+        img: "checkedshirt/khakiandwhitecheckedshirt.jpg",
+        affLink: "https://amzn.to/41mesaL",
     },
     {
         title: "Light Blue Straight Fit Jeans",
@@ -16,12 +32,23 @@ let topProds = [
         affLink: "https://amzn.to/4t2OaXo",
     },
     {
-        title: "Khaki and White Checkerd Shirt",
-        desc: "Budget checked shirt that looks surprisingly premium💸",
-        price: 379,
+        title: "Grey Polo T-Shirt",
+        desc: "Perfect for Summers🔥",
+        price: 449,
         bestSeller: false,
-        img: "checkedshirt/khakiandwhitecheckedshirt.jpg",
-        affLink: "https://amzn.to/41mesaL",
+        img: "polos/greypolo.jpeg",
+        affLink: "https://amzn.to/4vkjJNW",
+    },
+    
+    
+    
+    {
+        title: "Grey Sneaker Shoe",
+        desc: "Comfort + Perfect for casual outfits👟",
+        price: 499,
+        bestSeller: false,
+        img: "shoes/greysneaker.jpg",
+        affLink: "https://amzn.to/48yQf4S",
     },
     
 ];
