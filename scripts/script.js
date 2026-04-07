@@ -1,11 +1,11 @@
 let topProds = [
     {
-        title: "Grey Polo T-Shirt",
-        desc: "Perfect for Summers🔥",
-        price: 449,
+        title: "Light Blue Straight Fit Jeans",
+        desc: "Minimal jeans that go with everything",
+        price: 425,
         bestSeller: true,
-        img: "polos/greypolo.jpeg",
-        affLink: "https://amzn.to/4sOnARw",
+        img: "jeans/lightbluejeans.jpg",
+        affLink: "https://amzn.to/4t2OaXo",
     },
     {
         title: "Red Polo T-Shirt",
