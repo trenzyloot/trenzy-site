@@ -1,5 +1,13 @@
 let topProds = [
     {
+        title: "Grey  Polo T-Shirt",
+        desc: "Summers coolest fit🔥",
+        price: 449,
+        bestSeller: false,
+        img: "polos/greypolo.jpeg",
+        affLink: "https://amzn.to/4vkjJNW",
+    },
+    {
         title: "Light Blue Straight Fit Jeans",
         desc: "Minimal jeans that go with everything",
         price: 425,
@@ -8,47 +16,14 @@ let topProds = [
         affLink: "https://amzn.to/4t2OaXo",
     },
     {
-        title: "Red Polo T-Shirt",
-        desc: "Breathable + under budget",
-        price: 399,
-        bestSeller: false,
-        img: "polos/redpolo.jpeg",
-        affLink: "https://amzn.to/3O0m7sj",
-    },
-    {
-        title: "Black Polo T-Shirt",
-        desc: "Bughet + Style Combo",
-        price: 399,
-        bestSeller: true,
-        img: "polos/blackpolo.jpg",
-        affLink: "https://amzn.to/4cqxNhc",
-    },
-    
-    {
-        title: "White & Teal Polo T-Shirt",
-        desc: "Trending right now👀",
-        price: 299,
-        bestSeller: false,
-        img: "polos/stripepolo.jpeg",
-        affLink: "https://amzn.to/4dxr5Hg",
-    },
-    {
-        title: "Blue Polo T-Shirt",
-        desc: "Comfort + Breathable",
-        price: 498,
-        bestSeller: false,
-        img: "polos/bluepolo.jpeg",
-        affLink: "https://amzn.to/4bVzK5g",
-    },
-
-    {
-        title: "Lavender Polo T-Shirt",
-        desc: "Summers coolest fit🔥",
+        title: "Khaki and White Checkerd Shirt",
+        desc: "Budget checked shirt that looks surprisingly premium💸",
         price: 379,
         bestSeller: false,
-        img: "polos/lavenderpolo.png",
-        affLink: "https://amzn.to/41h3oM4",
+        img: "checkedshirt/khakiandwhitecheckedshirt.jpg",
+        affLink: "https://amzn.to/41mesaL",
     },
+    
 ];
 
 
