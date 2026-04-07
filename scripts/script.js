@@ -55,7 +55,6 @@ let topProds = [
 prodTXT = ``;
 
 for (let i = 0; i < topProds.length; i++) {
-    console.log(i);
     let prod = topProds[i];
     
     let isBestSeller = prod.bestSeller;
